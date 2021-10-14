@@ -1,4 +1,4 @@
-# Telegram Bot para Rastreamento de encomendas do Correio
+# Telegram Bot para Rastreamento de encomendas dos Correios
 
 # Install
  `npm install`
